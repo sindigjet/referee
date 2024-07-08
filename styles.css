@@ -1,0 +1,147 @@
+
+body{
+    background-color: #F5F5F5;
+}
+
+header{
+    padding:10px 0px;
+}
+
+.nav-link{
+    color: black;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.bg-black{
+    background-color: black !important;
+}
+
+h1{
+    padding-bottom: 40px;
+}
+
+h2{
+    font-size: 46px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.center{
+    display:flex;
+    align-items: center;
+}
+
+.buttons{
+    padding-top: 40px;
+}
+
+.redbtn{
+    color: #DA291C
+}
+
+.federata img{
+    max-width: 200px;
+    padding-left: 20px;
+}
+
+header{
+    display:flex;
+    align-items: center;
+}
+
+.hero{
+    padding: 7rem;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+  url(images/hero.webp) center/cover;
+
+}
+
+.what-is h2{
+    color:black;
+}
+
+.choi-hong-hi img{
+    max-height: 500px;
+}
+
+.card{
+    background-color: #F5F5F5;
+    padding: 1.5rem;
+    border:#F5F5F5;
+}
+
+.white{
+    color:white;
+}
+
+.tkd-in-alb{
+    background-color: black;
+}
+
+
+.spaces{
+    padding: 0px 18rem;
+    color: white;
+}
+
+
+.card-img-top{
+    height: 240px;
+    object-fit: cover;
+}
+
+.card-text-ref{
+    font-weight: 500;
+}
+
+.alb-refs{
+    background-color: black;
+}
+
+.refs-h1{
+    padding-bottom: 3rem;
+    color: white;
+}
+
+.refs-card{
+    margin-bottom: 3rem ;
+}
+
+.spacing{
+    padding: 5rem 0rem;
+}
+
+.navB:hover{
+    transform: scale(1.03);
+}
+
+.writing:hover{
+    color:#DA291C;
+}
+
+
+.refs-card:hover{
+    transform: scale(1.02);
+}
+
+a{
+    text-decoration: none;
+    color:#DA291C;
+}
+
+button:hover{
+    transform: scale(1.02);
+}
+
+a:hover{
+    color:black;
+}

@@ -1,0 +1,24 @@
+HERO
+1. Cfar esht tkd? 
+2. Kur erdhi tkd ne alb?
+3.1 Info rreth albitrave
+3.2 Rregullat e albitrave
+4. Albitrat shqiptare 
+
+colors:
+red = #DA291C
+black = #000000
+background? = #F5F5F5
+
+1.section 
+2.section 
+3.rules w list
+4.pics
+
+footer: first
+
+
+Last touch ups:
+Footer pa viz
+Navbar kur e prek behet i kuq dhe zmadhohet 
+butoni pr sign up??
